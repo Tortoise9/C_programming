@@ -1,0 +1,11 @@
+// smallest element in c = charset 
+// when char is mixed and combined it form a word = token
+// Token = keyword
+// we can also say token = smallest element of the c 
+// Types :
+// Keyword (int , struct typedef ,union ,char etc.)
+// Strings ()
+// constant  refer to const value pi=3.1416
+// special symbols  : [] {} ; ,  : puctuation character 
+// operators //assignment , relational ,comparision
+//identifiers (int age =23) age is identifer
